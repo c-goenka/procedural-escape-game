@@ -19,6 +19,11 @@ A 2D tile-based procedural world generation game built in Java. Navigate through
 
 ### Setup & Run
 ```bash
+# Download the required library (if you don't have it)
+# On Mac/Linux:
+curl -O https://algs4.cs.princeton.edu/code/algs4.jar
+# On Windows: Download from https://algs4.cs.princeton.edu/code/algs4.jar
+
 # Compile the project
 javac -cp ".:algs4.jar" src/Core/*.java src/TileEngine/*.java
 
