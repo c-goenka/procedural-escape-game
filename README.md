@@ -76,3 +76,6 @@ src/
 │   ├── TERenderer.java      # Rendering engine
 │   └── Tileset.java         # Tile definitions
 ```
+
+---
+
