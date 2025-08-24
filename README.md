@@ -2,6 +2,8 @@
 
 A 2D tile-based procedural world generation game built in Java. Navigate through randomly generated worlds to find a key and escape through the locked door before you're trapped forever!
 
+<img width="2552" height="1108" alt="game-image" src="https://github.com/user-attachments/assets/7042adce-7435-4c89-8271-a4ca15476a21" />
+
 ## Features
 
 - **Procedural Generation**: Every world is unique, generated from customizable seeds
